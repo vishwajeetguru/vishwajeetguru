@@ -1,174 +1,130 @@
 
-<!-- ===================================================== -->
-<!--                 VISHWAJEET GAWARGURU                  -->
-<!--                  GITHUB PROFILE                       -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:161B22,100:21262D&text=Vishwajeet%20Gawarguru&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=16&descAlignY=65&descColor=58A6FF" width="100%" alt="Vishwajeet Gawarguru — Full-Stack Developer"/>
+# Vishwajeet Gawarguru
 
-<br/>
+### Full-Stack Developer · Web Engineer · Product Builder
 
-<a href="https://vishwajeet.guru">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"/>
-</a>
-<a href="https://github.com/vishwajeetguru">
-  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/vishwa_guru/">
-  <img src="https://img.shields.io/badge/Instagram-Connect-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
+Building useful web applications with clean UI, reliable APIs, and thoughtful engineering.
 
-<br/><br/>
-
-**I turn ideas into functional, scalable digital products.**
-
-I build web applications, intuitive user interfaces, APIs, and business-focused solutions — combining frontend engineering, backend development, and product thinking.
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishwajeet.guru-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://vishwajeet.guru)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwajeetguru)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/vishwa_guru/)
 
 </div>
 
 ---
 
-## `01` / About Me
+## About Me
 
-```typescript
-const vishwajeet = {
-  role: "Full-Stack Web Developer",
-  focus: [
-    "Modern Web Applications",
-    "Backend & API Development",
-    "WordPress & WooCommerce",
-    "AI-Powered Products"
-  ],
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express"],
-  databases: ["PostgreSQL", "MySQL"],
-  currentlyExploring: [
-    "AI Integration",
-    "SaaS Architecture",
-    "Developer Tools"
-  ],
-  philosophy: "Build useful things. Keep improving."
-};
-```
+I'm a web developer focused on building modern web applications, business websites, and practical digital products.
 
-- I enjoy solving practical problems through software.
-- I care about clean code, maintainable architecture, and user experience.
-- I explore product ideas, automation, and tools that make work simpler.
-- I'm continuously improving my engineering skills through hands-on projects.
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **Backend:** Node.js, Express, REST APIs
+- **Database:** PostgreSQL, MySQL
+- **CMS & E-commerce:** WordPress, WooCommerce, PHP
+- **Interests:** AI integrations, SaaS products, automation, and UI/UX
 
----
+I enjoy turning ideas into working products, writing maintainable code, and continuously improving my engineering skills.
 
-## `02` / Technical Skills
-
-### Frontend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" alt="Node.js, Express, PostgreSQL, MySQL"/>
-</p>
-
-### CMS & E-commerce
-
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,php&theme=dark" alt="WordPress and PHP"/>
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Git, GitHub, VS Code, Figma, Docker"/>
-</p>
-
----
-
-## `03` / Selected Projects
+## Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/vishwajeetguru">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeetguru&repo=YOUR_PROJECT_REPO_1&theme=github_dark&hide_border=true" alt="Featured project one"/>
-</a>
-<a href="https://github.com/vishwajeetguru">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeetguru&repo=YOUR_PROJECT_REPO_2&theme=github_dark&hide_border=true" alt="Featured project two"/>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" alt="Backend and database technologies" />
+
+**CMS & Tools**
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,git,github,vscode,figma,docker" alt="CMS and development tools" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/vishwajeetguru?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
 </a>
 
 </div>
 
-> Replace `YOUR_PROJECT_REPO_1` and `YOUR_PROJECT_REPO_2` with real public repository names. If you don't have suitable public projects yet, remove these cards until you do.
+### What I Build
 
-### What I like building
-
-| Area | Engineering focus |
+| Area | Focus |
 |---|---|
-| Web applications | Responsive interfaces, reusable components, application architecture |
-| APIs & backend | REST APIs, authentication, validation, database integration |
-| E-commerce | WooCommerce customization, business workflows, conversion-focused UX |
+| Web Applications | Responsive UI, reusable components, application architecture |
+| Backend Engineering | REST APIs, authentication, validation, database integration |
+| WordPress & E-commerce | Custom websites, WooCommerce, business workflows |
 | AI & SaaS | AI integrations, useful automations, product experiments |
 
+**Want to showcase actual projects?** Add your best public repositories below. Replace the example links and descriptions with real project details.
+
+<!--
+### Project One
+[Repository](https://github.com/vishwajeetguru/REPLACE_WITH_REPO)
+
+Briefly explain the problem, your solution, and the technologies used.
+
+### Project Two
+[Repository](https://github.com/vishwajeetguru/REPLACE_WITH_REPO)
+
+Briefly explain the problem, your solution, and the technologies used.
+-->
+
 ---
 
-## `04` / GitHub Analytics
+## GitHub Overview
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishwajeetguru&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub overview"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetguru&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishwajeetguru&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=vishwajeetguru&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetguru&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetguru&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
 
 </div>
 
 ---
 
-## `05` / How I Approach Development
+## My Development Principles
 
 ```text
 Understand the problem
         ↓
 Design the solution
         ↓
-Build with maintainable code
+Build maintainable software
         ↓
-Test, refine & improve
+Test and improve
         ↓
 Ship something useful
 ```
 
-I believe good software is not just about writing code. It's about understanding the problem, choosing the right tools, and delivering something people can actually use.
+- Solve real problems instead of adding unnecessary complexity.
+- Prefer readable, maintainable code over clever shortcuts.
+- Build with performance, accessibility, and user experience in mind.
+- Keep learning through practical projects and experimentation.
 
 ---
 
-## `06` / Let's Connect
+## Let's Connect
 
-Have an interesting project, a technical idea, or an opportunity to collaborate?
+Have a project idea, a technical challenge, or an opportunity to collaborate?
 
 <div align="center">
 
-<a href="https://vishwajeet.guru">
-  <img src="https://img.shields.io/badge/Explore%20My%20Work-Visit%20Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishwajeet.guru)
 
-<br/><br/>
+[GitHub](https://github.com/vishwajeetguru) · [Instagram](https://www.instagram.com/vishwa_guru/)
 
-<a href="https://github.com/vishwajeetguru">GitHub</a> •
-<a href="https://vishwajeet.guru">Portfolio</a> •
-<a href="https://www.instagram.com/vishwa_guru/">Instagram</a>
-
-<br/><br/>
-
-*Building better software, one iteration at a time.*
+*Build. Learn. Improve. Repeat.*
 
 </div>
